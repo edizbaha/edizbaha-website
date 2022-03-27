@@ -10,7 +10,7 @@ return (
           <img src="/icon.png" className="rounded-full border-4 border-gray-800 md:w-auto w-1/2" alt="" />
         </div>
         <div className="md:ml-5">
-          <p className="text-5xl font-bold text-gray-100">Mert Doğu</p>
+          <p className="text-5xl font-bold text-gray-100">Ediz Baha</p>
           <p className=" text-fuchsia-400 text-opacity-65 text-xl font-medium">
             Full Stack Developer
           </p>
